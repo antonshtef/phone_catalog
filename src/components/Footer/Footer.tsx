@@ -49,7 +49,7 @@ export const Footer: React.FC = () => {
             <ul className="Footer__nav-list">
               <li className="Footer__nav-item">
                 <Link
-                  to="https://github.com/Igor-Yaremchuk"
+                  to="https://github.com/antonshtef"
                   className="Footer__nav-item-link"
                   target="blank"
                 >
